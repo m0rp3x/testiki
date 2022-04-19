@@ -1,3 +1,3 @@
-![image](https://user-images.githubusercontent.com/67301219/160103119-f2bf4ccc-feb0-4541-a811-f5ccf2d949fc.png)
-![image](https://user-images.githubusercontent.com/67301219/160103155-27d0da47-b992-4fb8-bdd7-c91f455ab856.png)
+
 ![image](https://user-images.githubusercontent.com/67301219/160103179-421484eb-5fc8-460b-926e-d9eba284e7a8.png)
+<img width="1440" alt="Снимок экрана 2022-04-19 в 18 55 50" src="https://user-images.githubusercontent.com/67301219/164045450-ec2e2aed-93a6-42f5-8a8b-0a7654abce0e.png">
